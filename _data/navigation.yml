@@ -4,3 +4,28 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
+  - title: "Search"
+    url: /search/
+
+docs:
+  - title: "디자인 이론"
+    children:
+      - title: "서체"
+        url: /tags/#typography
+      - title: "색채"
+        url: /tags/#color
+      - title: "조형"
+        url: /tags/#planning
+      - title: "레이아웃"
+        url: /tags/#layout
+      - title: "무브먼트"
+        url: /tags/#movement
+
+  - title: "디자인 실무"
+    children:
+      - title: "브랜드"
+        url: /tags/#bi
+      - title: "패키지"
+        url: /tags/#packgae
+      - title: "편집"
+        url: /tags/#editorial
