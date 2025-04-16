@@ -8,7 +8,14 @@ main:
     url: /search/
 
 docs:
-  - title: "디자인 이론"
+  - title: "프로젝트"
+    children:
+      - title: "포트폴리오"
+        url: /tags/#portfolio
+      - title: "감상평"
+        url: /tags/#reflection
+
+  - title: "기초 이론"
     children:
       - title: "서체"
         url: /tags/#typography
@@ -19,9 +26,9 @@ docs:
       - title: "레이아웃"
         url: /tags/#layout
       - title: "무브먼트"
-        url: /tags/#movement
+        url: /tags/#movements
 
-  - title: "디자인 실무"
+  - title: "실무 이론"
     children:
       - title: "브랜드"
         url: /tags/#bi
